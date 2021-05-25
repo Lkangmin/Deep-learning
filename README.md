@@ -14,4 +14,5 @@ Deep learning and Applications in Hanyang University
 4. project4: Implement LSTM [LINK](./project4)
                             [[wiki]](https://github.com/Lkangmin/Deep-learning/blob/master/project4/Assignment%204.pdf)
 
-5. term project1: Image classification with CNN
+5. term project1: Image classification with CNN [LINK](./Term project1)
+                                                [[wiki]](https://github.com/Lkangmin/Deep-learning/blob/master/Term%20project1/image%20classification/Term_assignment_1.pdf)
